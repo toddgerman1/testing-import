@@ -10,6 +10,7 @@ namespace WebApplication1.Tests
         public void TestMethod1()
         {
             Assert.IsTrue(true);
+            Console.Write("Hello World");
         }
     }
 }
